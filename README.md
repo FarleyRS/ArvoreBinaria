@@ -10,8 +10,7 @@ armazenamento de valores do tipo inteiro.
 2. public int maximo(); - retorna o maior valor.
 3. public String maiores(int valor);
 4. public String menores(int valor);
-5. public boolean isomorfica(No arv); - verifica se a estrutura de duas árvores é 
-igual
+5. public boolean isomorfica(No arv); - verifica se a estrutura de duas árvores é igual
 6. public int maxSoma (); - maior somatório de um caminho
 7. public String pathTo (int dado); - devolver caminho para chegar a um dado nó
 8. public int numNo(); - retorna o número de nós
